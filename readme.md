@@ -25,10 +25,3 @@ Secret Coder is an e-learning website designed to provide a user-friendly and re
 ![image](https://github.com/user-attachments/assets/a5005a3c-272b-431f-9b5a-18ff274efba0)
 
 
-
-## Technologies Used
-
-- HTML
-- CSS
-- Bootstrap 5
-- JavaScript
